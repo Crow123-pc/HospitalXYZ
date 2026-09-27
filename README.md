@@ -36,3 +36,4 @@ javac -d out src/excepciones/DatoInvalidoException.java src/modelo/Paciente.java
 ```bash
 java -cp out principal.Main
 ```
+Proyecto desarrollado para el caso práctico del Hospital Regional XYZ.
